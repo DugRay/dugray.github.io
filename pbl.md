@@ -1,7 +1,11 @@
 # PBL
 
+{:toc}
+
 # INTRODUCTION
+
 ## What is Project-Based Learning?
+
 *"Project learning, also known as project-based learning, is a dynamic approach to teaching in which students explore real-world problems and challenges, simultaneously developing cross-curriculum skills while working in small collaborative groups." (From [Why Teach with Project-Based Learning?](http://www.edutopia.org/project-learning-introduction))* http://youtu.be/LMCZvGesRz8 **Project-Based Learning:**
 - **Is authentic:** Project-Based Learning is an instructional approach built upon authentic learning activities that engage student interest and motivation. These activities are designed to answer a question or solve a problem and generally reflect the types of learning and work people do in the everyday world outside the classroom.
 - **Is in depth:** A well-designed project provokes students to encounter (and struggle with) the central concepts and principles of a discipline.
