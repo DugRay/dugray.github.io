@@ -1,6 +1,7 @@
 # PBL
 
-{:toc}
+### Table of Contents
+* {:toc}
 
 # INTRODUCTION
 
