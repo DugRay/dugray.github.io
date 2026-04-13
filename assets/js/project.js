@@ -9,8 +9,8 @@ lang:''
 Slide70910:{
 lb:'',
 id:70910,
-from:3982,
-to:4071,
+from:4072,
+to:4161,
 iols:0,
 i360qs:false,
 sdu:3,
